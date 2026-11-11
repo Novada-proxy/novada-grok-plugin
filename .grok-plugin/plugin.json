@@ -1,0 +1,19 @@
+{
+  "name": "novada",
+  "version": "1.0.0",
+  "description": "Live web access for AI agents: search (Google/DuckDuckGo/Yandex), extract content from any URL including anti-bot pages, crawl and map sites, multi-source research with citations, and structured data from 14 platforms (Amazon, Google, LinkedIn, YouTube, TikTok, X, GitHub and more).",
+  "author": {
+    "name": "Novada",
+    "url": "https://www.novada.com"
+  },
+  "homepage": "https://www.novada.com",
+  "repository": "https://github.com/Novada-proxy/novada-grok-plugin",
+  "license": "MIT",
+  "keywords": [
+    "novada",
+    "novada-mcp",
+    "novada-search",
+    "novada-scrape",
+    "novada-extract"
+  ]
+}
